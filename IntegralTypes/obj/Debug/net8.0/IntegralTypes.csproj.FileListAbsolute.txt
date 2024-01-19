@@ -1,0 +1,14 @@
+D:\Sviluppo\csharp\IntegralTypes\obj\Debug\net8.0\IntegralTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sviluppo\csharp\IntegralTypes\obj\Debug\net8.0\IntegralTypes.AssemblyInfoInputs.cache
+D:\Sviluppo\csharp\IntegralTypes\obj\Debug\net8.0\IntegralTypes.AssemblyInfo.cs
+D:\Sviluppo\csharp\IntegralTypes\obj\Debug\net8.0\IntegralTypes.csproj.CoreCompileInputs.cache
+D:\Sviluppo\csharp\IntegralTypes\bin\Debug\net8.0\IntegralTypes.exe
+D:\Sviluppo\csharp\IntegralTypes\bin\Debug\net8.0\IntegralTypes.deps.json
+D:\Sviluppo\csharp\IntegralTypes\bin\Debug\net8.0\IntegralTypes.runtimeconfig.json
+D:\Sviluppo\csharp\IntegralTypes\bin\Debug\net8.0\IntegralTypes.dll
+D:\Sviluppo\csharp\IntegralTypes\bin\Debug\net8.0\IntegralTypes.pdb
+D:\Sviluppo\csharp\IntegralTypes\obj\Debug\net8.0\IntegralTypes.dll
+D:\Sviluppo\csharp\IntegralTypes\obj\Debug\net8.0\refint\IntegralTypes.dll
+D:\Sviluppo\csharp\IntegralTypes\obj\Debug\net8.0\IntegralTypes.pdb
+D:\Sviluppo\csharp\IntegralTypes\obj\Debug\net8.0\IntegralTypes.genruntimeconfig.cache
+D:\Sviluppo\csharp\IntegralTypes\obj\Debug\net8.0\ref\IntegralTypes.dll

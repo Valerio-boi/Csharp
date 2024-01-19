@@ -1,0 +1,14 @@
+D:\Sviluppo\csharp\BiblInterface\obj\Debug\net8.0\BiblInterface.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sviluppo\csharp\BiblInterface\obj\Debug\net8.0\BiblInterface.AssemblyInfoInputs.cache
+D:\Sviluppo\csharp\BiblInterface\obj\Debug\net8.0\BiblInterface.AssemblyInfo.cs
+D:\Sviluppo\csharp\BiblInterface\obj\Debug\net8.0\BiblInterface.csproj.CoreCompileInputs.cache
+D:\Sviluppo\csharp\BiblInterface\bin\Debug\net8.0\BiblInterface.exe
+D:\Sviluppo\csharp\BiblInterface\bin\Debug\net8.0\BiblInterface.deps.json
+D:\Sviluppo\csharp\BiblInterface\bin\Debug\net8.0\BiblInterface.runtimeconfig.json
+D:\Sviluppo\csharp\BiblInterface\bin\Debug\net8.0\BiblInterface.dll
+D:\Sviluppo\csharp\BiblInterface\bin\Debug\net8.0\BiblInterface.pdb
+D:\Sviluppo\csharp\BiblInterface\obj\Debug\net8.0\BiblInterface.dll
+D:\Sviluppo\csharp\BiblInterface\obj\Debug\net8.0\refint\BiblInterface.dll
+D:\Sviluppo\csharp\BiblInterface\obj\Debug\net8.0\BiblInterface.pdb
+D:\Sviluppo\csharp\BiblInterface\obj\Debug\net8.0\BiblInterface.genruntimeconfig.cache
+D:\Sviluppo\csharp\BiblInterface\obj\Debug\net8.0\ref\BiblInterface.dll

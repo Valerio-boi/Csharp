@@ -1,0 +1,14 @@
+D:\Sviluppo\csharp\ContentString\bin\Debug\net8.0\ContentString.exe
+D:\Sviluppo\csharp\ContentString\bin\Debug\net8.0\ContentString.deps.json
+D:\Sviluppo\csharp\ContentString\bin\Debug\net8.0\ContentString.runtimeconfig.json
+D:\Sviluppo\csharp\ContentString\bin\Debug\net8.0\ContentString.dll
+D:\Sviluppo\csharp\ContentString\bin\Debug\net8.0\ContentString.pdb
+D:\Sviluppo\csharp\ContentString\obj\Debug\net8.0\ContentString.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sviluppo\csharp\ContentString\obj\Debug\net8.0\ContentString.AssemblyInfoInputs.cache
+D:\Sviluppo\csharp\ContentString\obj\Debug\net8.0\ContentString.AssemblyInfo.cs
+D:\Sviluppo\csharp\ContentString\obj\Debug\net8.0\ContentString.csproj.CoreCompileInputs.cache
+D:\Sviluppo\csharp\ContentString\obj\Debug\net8.0\ContentString.dll
+D:\Sviluppo\csharp\ContentString\obj\Debug\net8.0\refint\ContentString.dll
+D:\Sviluppo\csharp\ContentString\obj\Debug\net8.0\ContentString.pdb
+D:\Sviluppo\csharp\ContentString\obj\Debug\net8.0\ContentString.genruntimeconfig.cache
+D:\Sviluppo\csharp\ContentString\obj\Debug\net8.0\ref\ContentString.dll

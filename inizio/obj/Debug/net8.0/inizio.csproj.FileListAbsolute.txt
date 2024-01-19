@@ -1,0 +1,14 @@
+D:\Sviluppo\csharp\inizio\bin\Debug\net8.0\inizio.exe
+D:\Sviluppo\csharp\inizio\bin\Debug\net8.0\inizio.deps.json
+D:\Sviluppo\csharp\inizio\bin\Debug\net8.0\inizio.runtimeconfig.json
+D:\Sviluppo\csharp\inizio\bin\Debug\net8.0\inizio.dll
+D:\Sviluppo\csharp\inizio\bin\Debug\net8.0\inizio.pdb
+D:\Sviluppo\csharp\inizio\obj\Debug\net8.0\inizio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sviluppo\csharp\inizio\obj\Debug\net8.0\inizio.AssemblyInfoInputs.cache
+D:\Sviluppo\csharp\inizio\obj\Debug\net8.0\inizio.AssemblyInfo.cs
+D:\Sviluppo\csharp\inizio\obj\Debug\net8.0\inizio.csproj.CoreCompileInputs.cache
+D:\Sviluppo\csharp\inizio\obj\Debug\net8.0\inizio.dll
+D:\Sviluppo\csharp\inizio\obj\Debug\net8.0\refint\inizio.dll
+D:\Sviluppo\csharp\inizio\obj\Debug\net8.0\inizio.pdb
+D:\Sviluppo\csharp\inizio\obj\Debug\net8.0\inizio.genruntimeconfig.cache
+D:\Sviluppo\csharp\inizio\obj\Debug\net8.0\ref\inizio.dll

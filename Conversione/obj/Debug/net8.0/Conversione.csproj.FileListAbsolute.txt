@@ -1,0 +1,14 @@
+D:\Sviluppo\csharp\Conversione\bin\Debug\net8.0\Conversione.exe
+D:\Sviluppo\csharp\Conversione\bin\Debug\net8.0\Conversione.deps.json
+D:\Sviluppo\csharp\Conversione\bin\Debug\net8.0\Conversione.runtimeconfig.json
+D:\Sviluppo\csharp\Conversione\bin\Debug\net8.0\Conversione.dll
+D:\Sviluppo\csharp\Conversione\bin\Debug\net8.0\Conversione.pdb
+D:\Sviluppo\csharp\Conversione\obj\Debug\net8.0\Conversione.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sviluppo\csharp\Conversione\obj\Debug\net8.0\Conversione.AssemblyInfoInputs.cache
+D:\Sviluppo\csharp\Conversione\obj\Debug\net8.0\Conversione.AssemblyInfo.cs
+D:\Sviluppo\csharp\Conversione\obj\Debug\net8.0\Conversione.csproj.CoreCompileInputs.cache
+D:\Sviluppo\csharp\Conversione\obj\Debug\net8.0\Conversione.dll
+D:\Sviluppo\csharp\Conversione\obj\Debug\net8.0\refint\Conversione.dll
+D:\Sviluppo\csharp\Conversione\obj\Debug\net8.0\Conversione.pdb
+D:\Sviluppo\csharp\Conversione\obj\Debug\net8.0\Conversione.genruntimeconfig.cache
+D:\Sviluppo\csharp\Conversione\obj\Debug\net8.0\ref\Conversione.dll

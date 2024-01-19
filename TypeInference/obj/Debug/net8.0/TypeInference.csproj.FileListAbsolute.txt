@@ -1,0 +1,14 @@
+D:\Sviluppo\csharp\TypeInference\obj\Debug\net8.0\TypeInference.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sviluppo\csharp\TypeInference\obj\Debug\net8.0\TypeInference.AssemblyInfoInputs.cache
+D:\Sviluppo\csharp\TypeInference\obj\Debug\net8.0\TypeInference.AssemblyInfo.cs
+D:\Sviluppo\csharp\TypeInference\obj\Debug\net8.0\TypeInference.csproj.CoreCompileInputs.cache
+D:\Sviluppo\csharp\TypeInference\bin\Debug\net8.0\TypeInference.exe
+D:\Sviluppo\csharp\TypeInference\bin\Debug\net8.0\TypeInference.deps.json
+D:\Sviluppo\csharp\TypeInference\bin\Debug\net8.0\TypeInference.runtimeconfig.json
+D:\Sviluppo\csharp\TypeInference\bin\Debug\net8.0\TypeInference.dll
+D:\Sviluppo\csharp\TypeInference\bin\Debug\net8.0\TypeInference.pdb
+D:\Sviluppo\csharp\TypeInference\obj\Debug\net8.0\TypeInference.dll
+D:\Sviluppo\csharp\TypeInference\obj\Debug\net8.0\refint\TypeInference.dll
+D:\Sviluppo\csharp\TypeInference\obj\Debug\net8.0\TypeInference.pdb
+D:\Sviluppo\csharp\TypeInference\obj\Debug\net8.0\TypeInference.genruntimeconfig.cache
+D:\Sviluppo\csharp\TypeInference\obj\Debug\net8.0\ref\TypeInference.dll
